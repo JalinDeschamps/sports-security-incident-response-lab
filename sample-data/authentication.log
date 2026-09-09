@@ -1,0 +1,10 @@
+2026-09-09T09:00:12Z auth-service INFO user=coach.miller src_ip=192.0.2.10 action=login status=success
+2026-09-09T09:02:45Z auth-service INFO user=finance.jones src_ip=192.0.2.20 action=login status=success
+2026-09-09T09:05:10Z auth-service WARN user=scouting.lee src_ip=198.51.100.77 action=login status=failure
+2026-09-09T09:05:18Z auth-service WARN user=scouting.lee src_ip=198.51.100.77 action=login status=failure
+2026-09-09T09:05:26Z auth-service WARN user=scouting.lee src_ip=198.51.100.77 action=login status=failure
+2026-09-09T09:05:34Z auth-service WARN user=scouting.lee src_ip=198.51.100.77 action=login status=failure
+2026-09-09T09:05:42Z auth-service WARN user=scouting.lee src_ip=198.51.100.77 action=login status=failure
+2026-09-09T09:06:03Z auth-service INFO user=scouting.lee src_ip=198.51.100.77 action=login status=success
+2026-09-09T09:07:15Z auth-service INFO user=coach.miller src_ip=192.0.2.10 action=logout status=success
+2026-09-09T09:09:30Z auth-service INFO user=finance.jones src_ip=192.0.2.20 action=logout status=success
