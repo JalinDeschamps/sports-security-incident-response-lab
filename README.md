@@ -98,6 +98,7 @@ sports-security-incident-response-lab/
 │   └── splunk-queries.md
 ├── reports/
 │   ├── incident-report.md
+|   ├── splunk-authentication-results.csv
 │   └── splunk-failed-login-detection.csv
 ├── sample-data/
 │   └── authentication.log
